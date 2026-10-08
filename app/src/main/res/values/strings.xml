@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Pertemuan4</string>
     <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
 
-    <string name="nama">Muhammad Wafa Rozanu</string>
     <string name="alamat">Wates,Kulon Progo</string>
     <string name="copy">Copyright, 2026</string>
 
