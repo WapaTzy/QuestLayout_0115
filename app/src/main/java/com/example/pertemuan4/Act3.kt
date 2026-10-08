@@ -56,13 +56,7 @@ fun ActtivitasPertama(modifier: Modifier) {
                     modifier = Modifier.size(100.dp).padding(all=5.dp)
                 )
 
-                    Text(
-                        stringResource(R.string.alamat),
-                        fontSize = 20.sp,
-                        color = Color.Yellow,
-                        modifier = Modifier.padding(top = 10.dp)
-                    )
-                }
+
             }
         }
         Box(
